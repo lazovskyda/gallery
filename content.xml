@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DoorsCatalog>
+	<Door>
+		<Producer>Аристон</Producer>
+		<DoorsTitle>Модель 30 (глухая)</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/ariston_36-2pg.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Аристон</Producer>
+		<DoorsTitle>Модель 30 (стекло)</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/ariston_36-2po.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Аристон</Producer>
+		<DoorsTitle>Модель 36-2 (глухая)</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/ariston_30venge-pg.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Аристон</Producer>
+		<DoorsTitle>Модель 36-2 (стекло)</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/ariston_30venge-po.jpg</DoorImage>
+	</Door>	
+
+
+
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Вертикаль</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_vertical.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Волна Ф</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_volnaF.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Квадрат</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_kvadrat.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Лагуна</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_laguna.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Луна</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_luna.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Палемо (глухая)</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/chalabi_palermo_gluhaia.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Палемо (со стеклом)</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_palermo_steklo.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Рюмка</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_rumka.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Соната Ф</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_sonataF.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Стрелиция</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_strelicia.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Стрелиция Ф</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_streliciaF.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Тетра</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_tetra.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Чалаби</Producer>
+		<DoorsTitle>Тифани 2</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/chalabi_tifany2.jpg</DoorImage>
+	</Door>
+
+
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>10.00</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/kd_10.00.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>10.24</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_10.24.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>10.66</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_10.66.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>150</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/kd_150.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>151</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/kd_151.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>153</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_153.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>154</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_154.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>155</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_155.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>158</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_158.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>500</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/kd_500.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>512</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_512.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>515</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/kd_515.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>516</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_516.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>200 Opex</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/kd_opex200.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>201 Opex</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/kd_opex201.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>203 Opex</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_opex203.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Краснодеревщик</Producer>
+		<DoorsTitle>204 Opex</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/kd_opex204.jpg</DoorImage>
+	</Door>
+
+
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1021</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1021.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1022</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_classic_1022.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1071</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1071.jpg</DoorImage>
+	</Door>
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1072</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_classic_1072.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1091</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1091.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1092</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_classic_1092.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1121</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1121.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1122</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_classic_1122.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1123</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1123.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1124</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_classic_1124.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1125</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1125.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1151</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1151.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1152</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_classic_1152.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>1153</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_classic_1153.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>4012</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_modum_4012.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>4016</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_modum_4016.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>4017</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_modum_4017.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2021</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_tekton_2021.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2021 ТЛ</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_tekton_2021tl.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2024</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2024.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2024 ТЛ</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2024tl.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2031</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_tekton_2031.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2034</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2034.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2041</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_tekton_2041.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2042</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2042.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2051</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/volhovec_tekton_2051.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2052</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2052.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2052 ТЛ</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2052TL.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2054</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2054.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Волховец</Producer>
+		<DoorsTitle>2062</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/volhovec_tekton_2062.jpg</DoorImage>
+	</Door>			
+		
+
+	<Door>
+		<Producer>Покрова</Producer>
+		<DoorsTitle>Анегри (остекленная)</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/pokrova_illusion_anegri.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Покрова</Producer>
+		<DoorsTitle>Анегри (глухая)</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/pokrova_illusion_anegri_gluhaia.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Покрова</Producer>
+		<DoorsTitle>Вираж (глухая)</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/pokrova_virag_gluhaia.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Покрова</Producer>
+		<DoorsTitle>Вираж (остекленная)</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/pokrova_virag_steklo.jpg</DoorImage>
+	</Door>	
+	
+	
+	
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Афина Белый дуб</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_afina_belesiDub.jpgg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Афина Итальянский орех</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_afina_italianOreh.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Афина Миланский орех</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_afina_milanskiOreh.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Белая ПГ</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/rostra_belaya_PG.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Белая ПО</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_belaya_PO.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Дуб Классик ПГ</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/rostra_dubClassic_PG.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Дуб Классик ПО</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_dubClassic_PO.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Итальянский орех Классик ПГ</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/rostra_ItalyOrehClassic_PG.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Итальянский орех Классик ПО</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_italyOrehClassc_PO.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Мальта Беленый дуб</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_malta_BeleniDub.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Мальта Итальянский орех</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_malta_italyOreh.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Мальта Миланский орех</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_maltaMaltiskyOreh.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Миланский орех Классик ПГ</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/rostra_milanskyOreh_classic_PG.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Ростра</Producer>
+		<DoorsTitle>Миланский орех Классик ПО</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/rostra_milanskyOreh_classic_PO.jpg</DoorImage>
+	</Door>			
+	
+	
+	
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 06.1</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_06-1.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 06.2</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_06-2.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 06.3</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_06-3.jpg</DoorImage>
+	</Door>				
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 06.4</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_06-4.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 06.5</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_06-5.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 06.6</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_06-6.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 19.1</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_19-1.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 19.2</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_19-2.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 19.3</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_19-3.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 19.4</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_19-4.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 19.5</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_19-5.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 19.6</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_19-6.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 31.1</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_31-1.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 31.2</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_31-2.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 31.3</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_31-3.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 31.4</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_31-4.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 31.5</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_31-5.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 31.6</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_31-6.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 53.1</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_53-1.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 53.2</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_53-2.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 53.3</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_53-3.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 53.4</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_53-4.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 53.5</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_53-5.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 53.6</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_53-6.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 53.7</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_53-7.jpg</DoorImage>
+	</Door>			
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 77.1</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_77-1.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 77.5</DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/sofia_77-5.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 77.7</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_77-7.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Софья</Producer>
+		<DoorsTitle>Тип 77.8</DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/sofia_77-8.jpg</DoorImage>
+	</Door>		
+
+
+
+	<Door>
+		<Producer>Фрегат</Producer>
+		<DoorsTitle>Венеция (глухая) </DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/fregat_venecia_PG.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Фрегат</Producer>
+		<DoorsTitle>Венеция (остекленная) </DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/fregat_venecia_PO.jpg</DoorImage>
+	</Door>		
+	<Door>
+		<Producer>Фрегат</Producer>
+		<DoorsTitle>Палермо (глухая) </DoorsTitle>
+		<DoorsType>Глухая</DoorsType>
+		<DoorImage>content/fregat_palermo_PG.jpg</DoorImage>
+	</Door>	
+	<Door>
+		<Producer>Фрегат</Producer>
+		<DoorsTitle>Палермо (остекленная) </DoorsTitle>
+		<DoorsType>Со стеклом</DoorsType>
+		<DoorImage>content/fregat_palermo_PO.jpg</DoorImage>
+	</Door>	
+		
+</DoorsCatalog>
